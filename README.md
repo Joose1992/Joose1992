@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Joose1992
-- 👀 I’m interested in web development and date structures.
-- 🌱 I’m currently learning c-sharp and sql.
-- 💞️ I’m looking to collaborate on practice exercise and problem solving.
-- 📫 How to reach me 
-email: josemontanez1992@gmail.com
-wattsup: 915-765-9115
+- I am currently in the process to become a full stack developer in c-sharp.
+
+
 
 <!---
 Joose1992/Joose1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
