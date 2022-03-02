@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Joose1992
-- I am currently in the process to become a full stack developer in c-sharp.
-- I am currently learning git on command line and on gitkraken.
-- I just start the 100 days of code.
-- Java scrip will be my next next focus.
+- I am Full-Stack developer in c-sharp.
+- I prefer coffe than tea.
+- My main operating system is windows.
+- I prefer to code with dark dracula theme.
+- I am from Cd. Juarez Chihuahua Mexico, currently living at El Paso Tx.
+- I speak fluent both English and Spanish.
 
 <!---
 Joose1992/Joose1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
